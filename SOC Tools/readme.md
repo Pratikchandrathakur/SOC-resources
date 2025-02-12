@@ -133,4 +133,6 @@ Kali Linux contains many penetration testing tools for security and forensics fi
 
 ---
 
-In the following figure, the `whoami` command is issued after the reverse connection is established.  
+In the following figure, the `whoami` command is issued after the reverse connection is established. 
+
+ <img align=left src="https://github.com/user-attachments/assets/427852f8-fb00-4cd8-82d6-d258773f935b">
