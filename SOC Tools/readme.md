@@ -71,3 +71,59 @@ A newer release of Security Onion includes the Elastic Stack (ELK) version, whic
 ---
 
 This suite of tools enables SOC analysts to collect, analyze, and visualize network data to detect and respond to intrusions effectively.  
+# **🔒 SOC Tools and Their Features (Cont.)**  
+
+You might use other tools, besides Security Onion, such as the following:
+
+---
+
+### **🔍 Cisco Secure Network Analytics (formerly Stealthwatch)**  
+Displays distinct views of the IP flows traversing network devices that are configured to send NetFlow data to Cisco Secure Network Analytics. It uses NetFlow, IPFIX, and other types of network telemetry data to detect a wide range of threats such as:  
+
+- 🛡️ Advanced persistent threats (APT)  
+- 📶 Distributed denial of service (DDoS) attacks  
+- 🐛 Zero-day malware  
+- 👤 Insider threats  
+
+Cisco Secure Network Analytics applies various behavior and policy-based algorithms to alarm SOC analysts about suspicious behavior on the network.  
+
+---
+
+### **🔬 Cisco Secure Malware Analytics (formerly Threat Grid)**  
+A cloud-based malware analysis and threat intelligence sandbox solution. A SOC analyst can submit malware samples for analysis during an investigation.  
+
+- 🔍 Uses various static and dynamic analysis engines to dissect file behaviors to determine whether a file might be malicious.  
+- 🌍 Correlates data elements of a single malware sample against millions of samples collected worldwide.  
+- 🔗 Provides a global view of malware attacks and their associations.  
+
+Cisco Secure Malware Analytics is included as an integrated component of many Cisco Secure products.  
+
+---
+
+### **🔗 Cisco SecureX Platform**  
+Connects the Cisco integrated security portfolio with the organization's entire security infrastructure.  
+
+- 📊 Provides a consistent experience that unifies visibility and identifies unknown threats.  
+- ⚙️ Enables automated workflows to strengthen security across the network, endpoint, cloud, and applications.  
+- 🌐 An open, cloud-native platform included with many Cisco Secure products.  
+- 🤝 Aligns with products from more than 175 security technology providers and offers more than 300 product-to-product integrations.  
+
+---
+
+### **🛡️ Penetration Testing Tools**  
+Penetration testing simulates the actions of an attacker aiming to breach an organization’s information security.  
+
+- 🎯 The penetration tester (ethical hacker) uses various tools and techniques to exploit critical systems and gain access to sensitive data.  
+- 🧪 A vulnerability assessment identifies known vulnerabilities in information systems and reports potential exposures.  
+- 🔄 Organizations typically start with vulnerability assessments and act on the results to reduce risks before conducting penetration tests.  
+
+**🔧 Common Penetration Testing Tools:**  
+- **Metasploit Framework**  
+- **Armitage**  
+- **Social Engineer Toolkit (SET)**  
+
+Kali Linux contains many penetration testing tools for security and forensics fields. For example, using Armitage to exploit the Apache Struts vulnerability can open a reverse connection to a vulnerable Apache server (192.168.1.107).  
+
+---
+
+In the following figure, the `whoami` command is issued after the reverse connection is established.  
