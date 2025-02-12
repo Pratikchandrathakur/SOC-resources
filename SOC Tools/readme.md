@@ -25,12 +25,14 @@ Security Onion is a comprehensive suite of tools designed to assist SOC analysts
 The Enterprise Log Search and Archive (ELSA) version of Security Onion includes the following tools:  
 
 - 📋 **ELSA:** Centralized syslog framework with web-based query interfaces for log normalization and searches. Features include log permissions, email alerts, scheduled queries, and graphing.  
-- 🛡️ **Snort:** Open-source NIDS/NIPS for real-time threat detection and alerting (NIPS mode not supported in Security Onion).  
+- 🛡️ **Snort:** Open-source NIDS/NIPS for real-time threat detection and alerting (NIPS mode not supported in Security Onion).
+ <img align=left src="https://github.com/user-attachments/assets/8c962191-3f55-47fc-817d-a3b8211cbf74">
+ 
 - 📜 **Suricata:** Script-driven NIDS/NIPS for traffic analysis and alert generation (NIPS mode not supported).  
 - 🔍 **Zeek (Bro):** Packet recorder and protocol analyzer to detect behavioral anomalies.  
-- 🌐 **Traffic Logging:** Captures comprehensive traffic logs for over 35 protocols (e.g., HTTP, DNS, SMTP).  
-- ⚙️ **Automated Analysis:** Uses Bro scripts for traffic analysis.  
-- 📂 **File Extraction:** Reassembles files directly from network traffic.  
+   - 🌐 **Traffic Logging:** Captures comprehensive traffic logs for over 35 protocols (e.g., HTTP, DNS, SMTP).  
+   - ⚙️ **Automated Analysis:** Uses Bro scripts for traffic analysis.  
+   - 📂 **File Extraction:** Reassembles files directly from network traffic.  
 - 🛡️ **Wazuh (OSSEC):** Host-based intrusion detection system for lightweight host monitoring on multiple OS platforms.  
 - 📦 **Netsniff-ng:** Captures network traffic in PCAP format.  
 - 🖥️ **Sysmon:** Monitors Windows event logs and system activity.  
