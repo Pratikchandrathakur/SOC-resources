@@ -78,7 +78,9 @@ You might use other tools, besides Security Onion, such as the following:
 ---
 
 ### **🔍 Cisco Secure Network Analytics (formerly Stealthwatch)**  
-Displays distinct views of the IP flows traversing network devices that are configured to send NetFlow data to Cisco Secure Network Analytics. It uses NetFlow, IPFIX, and other types of network telemetry data to detect a wide range of threats such as:  
+Displays distinct views of the IP flows traversing network devices that are configured to send NetFlow data to Cisco Secure Network Analytics. It uses NetFlow, IPFIX, and other types of network telemetry data to detect a wide range of threats such as:
+
+ <img align=left src="https://github.com/user-attachments/assets/f07f4d1f-f4ab-4a51-830a-14aade2028e8">
 
 - 🛡️ Advanced persistent threats (APT)  
 - 📶 Distributed denial of service (DDoS) attacks  
@@ -92,6 +94,8 @@ Cisco Secure Network Analytics applies various behavior and policy-based algorit
 ### **🔬 Cisco Secure Malware Analytics (formerly Threat Grid)**  
 A cloud-based malware analysis and threat intelligence sandbox solution. A SOC analyst can submit malware samples for analysis during an investigation.  
 
+ <img align=left src="https://github.com/user-attachments/assets/e2337f7c-8846-4628-a595-db29975e9af5">
+
 - 🔍 Uses various static and dynamic analysis engines to dissect file behaviors to determine whether a file might be malicious.  
 - 🌍 Correlates data elements of a single malware sample against millions of samples collected worldwide.  
 - 🔗 Provides a global view of malware attacks and their associations.  
@@ -101,7 +105,9 @@ Cisco Secure Malware Analytics is included as an integrated component of many Ci
 ---
 
 ### **🔗 Cisco SecureX Platform**  
-Connects the Cisco integrated security portfolio with the organization's entire security infrastructure.  
+Connects the Cisco integrated security portfolio with the organization's entire security infrastructure. 
+
+<img src="https://github.com/user-attachments/assets/213b447f-15dc-4bca-995c-e50e17368510" width=1000px>
 
 - 📊 Provides a consistent experience that unifies visibility and identifies unknown threats.  
 - ⚙️ Enables automated workflows to strengthen security across the network, endpoint, cloud, and applications.  
@@ -121,6 +127,7 @@ Penetration testing simulates the actions of an attacker aiming to breach an org
 - **Metasploit Framework**  
 - **Armitage**  
 - **Social Engineer Toolkit (SET)**  
+ <img align=left src="https://github.com/user-attachments/assets/a6a57fa5-b9b3-4fcb-bf7e-721bf81fffc8">
 
 Kali Linux contains many penetration testing tools for security and forensics fields. For example, using Armitage to exploit the Apache Struts vulnerability can open a reverse connection to a vulnerable Apache server (192.168.1.107).  
 
