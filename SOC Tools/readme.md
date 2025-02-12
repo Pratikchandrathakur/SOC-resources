@@ -64,5 +64,8 @@ A newer release of Security Onion includes the Elastic Stack (ELK) version, whic
 - 🌐 **DomainStats:** Conducts Whois lookups and provides domain context (e.g., age, reputation).  
 
 ---
+ <img align=left src="https://github.com/user-attachments/assets/c2e45d7a-0181-4243-a672-993bdea1972a">
+ 
+---
 
 This suite of tools enables SOC analysts to collect, analyze, and visualize network data to detect and respond to intrusions effectively.  
